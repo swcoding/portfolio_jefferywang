@@ -8,7 +8,7 @@ import {
 import { Box, Boxes, BoxNum, BoxText } from "./AcomplishmentsStyles";
 
 const data = [
-  { number: 4, text: "Machine Learning Experience" },
+  { number: 4, text: "Years of Machine Learning Experience" },
   { number: 20, text: "Clients" },
   { number: 80, text: "Blog Posts" },
 ];

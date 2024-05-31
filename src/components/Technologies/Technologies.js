@@ -21,6 +21,7 @@ const Technologies = () => (
     <SectionDivider />
     <br />
     <br />
+    <br />
     <SectionTitle>Technologies</SectionTitle>
     <SectionText>
       I've worked with a range of technologies in the data science world. From
