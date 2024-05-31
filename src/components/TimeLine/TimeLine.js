@@ -61,6 +61,10 @@ const Timeline = () => {
 
   return (
     <Section id="about">
+      <SectionDivider></SectionDivider>
+      <br />
+      <br />
+      <br />
       <SectionTitle>About Me</SectionTitle>
       <SectionText>Jeffery Wang</SectionText>
       <CarouselContainer ref={carouselRef}>
